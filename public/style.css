@@ -1,4 +1,28 @@
-/* header{
-    background-color: yellow;
+*{
+    margin: 0%;
+}
+
+.main-box{
+    display: flex;
+}
+
+.img-box{
+    width: 70%;
+    align-items: center;
+    justify-content: center;
+    margin: 15px;
+}
+
+
+header{
+    padding: 20px;
+    margin: 15px;
+    background-color: gold;
     color: red;
-} */
+    text-align: center;
+}
+
+
+.body-text{
+   margin: 15px;
+}
